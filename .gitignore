@@ -32,3 +32,6 @@ checkpoints/
 /all_rests_*
 /sfn_*
 /clef_*
+
+/venv/
+```
